@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = 'FlatCircleweb3swift'
-    spec.version      = '2.3.0'
+    spec.version      = '2.3.1'
     spec.ios.deployment_target = "11.0"
     spec.license      = { :type => 'Apache License 2.0', :file => 'LICENSE.md' }
     spec.summary      = 'Web3 implementation in vanilla Swift for iOS, macOS, and Linux'
